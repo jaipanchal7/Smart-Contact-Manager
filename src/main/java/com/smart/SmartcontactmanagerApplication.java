@@ -15,12 +15,5 @@ public class SmartcontactmanagerApplication implements CommandLineRunner  {
 	@Override
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
-//		
-//		String str="jai";
-//		String encode = this.bryBCryptPasswordEncoder.encode(str);
-//		System.out.println(encode);		
-//		String str1="jai2";
-//		String encode2 = this.bryBCryptPasswordEncoder.encode(str1);		
-//		System.out.println(this.bryBCryptPasswordEncoder.matches("jai7h",encode));
 	}
 }
